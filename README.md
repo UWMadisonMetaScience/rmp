@@ -3,8 +3,8 @@
 ## by Xiang Zheng, Shreyas Vastrad, Jibo He, Chaoqun Ni*
 
 
-Dunning log likelihood analysis
-gender and field based analysis
+* Dunning log likelihood analysis
+* gender and field based analysis
 rating analysis
 topic modeling 
 sentiment analysis
