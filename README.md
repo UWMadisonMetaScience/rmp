@@ -12,4 +12,4 @@
 Minimal underlying data links:
 * 1-star reviews https://drive.google.com/file/d/1OJaE9NN5JBSrwygnCCJ1C0jmSN7Onyyz
 * 5-star reviews https://drive.google.com/file/d/1OGRfbnUGcU-_H27FMGLe6F1PJhll7YRK
-* numbric rating https://drive.google.com/file/d/1PA7cfI2KLjgdIXI63dPz-es0y8IPdzxg
+* numeric rating https://drive.google.com/file/d/1PA7cfI2KLjgdIXI63dPz-es0y8IPdzxg
