@@ -1,7 +1,7 @@
 # Supplemental data and code for manuscript:
 ## Contextualizing gender disparities in online teaching evaluations for professors
 ## by Xiang Zheng, Shreyas Vastrad, Jibo He, Chaoqun Ni*
-
+PLOS ONE: https://doi.org/10.1371/journal.pone.0282704
 
 * Dunning log likelihood analysis
 * gender and field based analysis
